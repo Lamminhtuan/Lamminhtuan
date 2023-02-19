@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Minh Tuan Lam</h1>
-<h3 align="center">A computer science student in University of Information Technology - VNUHCM</h3>
+<h3 align="center">A computer science student at University of Information Technology - VNUHCM</h3>
 
 - 🌱 I’m currently learning **ML, DL and Software Development**
 
