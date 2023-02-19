@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Minh Tuan Lam</h1>
 <h3 align="center">A computer science student at University of Information Technology - VNUHCM</h3>
 
-- 🔭 I’m currently working on **Web and Mobile Development**
+- 🔭 I’m currently working on **ML, DL, CV and Web and Mobile Development**
 
-- 🌱 I’m currently learning **ML, DL and Software Development**
+- 🌱 I’m currently learning **ML, DL, CV and Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lamminhtuan](https://github.com/Lamminhtuan)
 
