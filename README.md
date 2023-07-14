@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ML, DL, CV and Software Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lamminhtuan](https://github.com/Lamminhtuan)
-
 - 📫 How to reach me **tuanlam300@gmail.com**
 
 
